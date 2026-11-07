@@ -1,0 +1,9 @@
+{
+  "name": "bug-upm-tailwindcss-typography",
+  "version": "1.0.0",
+  "description": "A reproduction of a upm bug",
+  "type": "module",
+  "dependencies": {
+    "tailwindcss": "^4.3.4"
+  }
+}

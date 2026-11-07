@@ -1,0 +1,20 @@
+{
+  "lockfileVersion": 1,
+  "root": {
+    "name": "bug-upm-tailwindcss-typography",
+    "version": "1.0.0",
+    "specs": {
+      "dependencies": {
+        "tailwindcss": "^4.3.4"
+      }
+    },
+    "dependencies": {
+      "tailwindcss": "4.3.4"
+    }
+  },
+  "packages": {
+    "tailwindcss@4.3.4": {
+      "integrity": "sha512-PCJZTFFdG+sL3gvnP1Do9o6GbkvH2q0p04xSs3f7cSvmAeK+sttG+/7ncK1fdRwKFfC7n+wDDJaOMBSefkI9ow=="
+    }
+  }
+}
